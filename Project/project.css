@@ -181,3 +181,28 @@ body {
 .button>i {
     color: #ffbb3e;
 }
+
+
+.card_container {
+    width: 100%;
+    display: flex;
+       gap: 5%;
+       margin: 10px 0 0 20%;
+       
+}
+
+
+.card_title {
+    color: #000;
+}
+
+.card>p {
+    color: #292F36;
+}
+
+
+.card_btn {
+    background-color: white;
+    justify-content: center;
+    border: none;
+}
