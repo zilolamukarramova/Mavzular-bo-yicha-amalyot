@@ -206,3 +206,39 @@ body {
     justify-content: center;
     border: none;
 }
+
+.banner_div {
+    display: flex;
+    gap: 40px;
+
+}
+
+.main_banner {
+    margin: 5% 0 0 18%;
+    color: #000;
+    display: flex;
+    gap: 20px;
+}
+
+.banner_btn {
+    border: none;
+    background-color: white;
+}
+
+.button_div {
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    background-color: white;
+    border: none;
+}
+
+.fa-phone {
+    font-size: 1.5rem;
+}
+
+.div_imege>img {
+  width:450px;
+  height: 450px;
+  border-radius: 0 55% 0 30%;
+}
