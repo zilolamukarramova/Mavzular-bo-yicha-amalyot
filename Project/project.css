@@ -199,6 +199,11 @@ body {
     color: #000;
 }
 
+.card {
+
+    background-color: #ffffff;
+}
+
 .card>p {
     color: #292F36;
 }
